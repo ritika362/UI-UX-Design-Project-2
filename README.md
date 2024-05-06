@@ -1,7 +1,7 @@
 # **SARGAM** 
-This is a music app with a captivating home page.
+This is a music application design for mobile with a captivating home page and intuitive navigating design for easy exploration through the app.
 
-It has bottom navigation bar for users to navigate to other pages.
+It has bottom navigation bar for users to navigate to other pages, an attractive interface for creating and managing playlists and a visually appealing music player with play, pause, skip, and volume controls.
 
 
 Here is the figma link for ui design:
