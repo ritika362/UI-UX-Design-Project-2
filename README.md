@@ -1,5 +1,4 @@
-# **SARGAM** 
-## Music Application for Mobiles
+# **SARGAM** ## Music Application for Mobiles
 
 This is a music application design for mobile with a captivating home page and intuitive navigating design for easy exploration through the app.
 
