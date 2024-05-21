@@ -6,4 +6,4 @@ It has bottom navigation bar for users to navigate to other pages, an attractive
 
 
 Here is the figma link for ui/ux design:
-https://www.figma.com/proto/ib9g9p9c3DaAFzzK35N0qd/Music-App?type=design&node-id=314-8&t=TDaOn6yZektIhGuA-1&scaling=scale-down&page-id=0%3A1&mode=design
+https://www.figma.com/proto/ib9g9p9c3DaAFzzK35N0qd/Music-App?node-id=2511-229&t=FtzS0AOr5LlXX3Ip-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2511%3A229
